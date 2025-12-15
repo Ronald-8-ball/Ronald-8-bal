@@ -1,1 +1,1 @@
-# Ronald-8-bal
+Hello👋, I am Ronald, a developer from Nigeria. I mainly build websites and mobile apps. My skills are HTML, CSS, JS(React) for frontend, Python(Flask) for backend, MySQL for Database Management, C++ and Java. I am passionate about building software to help the world
